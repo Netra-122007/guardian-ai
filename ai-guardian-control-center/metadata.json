@@ -1,0 +1,7 @@
+{
+  "name": "AI Guardian Control Center",
+  "description": "An intelligent security layer that supervises autonomous AI agents before they act. Observe. Reason. Decide. Enforce.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
