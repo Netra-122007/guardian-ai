@@ -527,20 +527,3 @@ But never let AI act without supervision.
 📜 License
 
 This project is developed as a hackathon/educational project.
-
-
-### ⭐ One small recommendation
-
-For your GitHub repo, I'd name it:
-
-**`AI-Guardian`**
-
-and use this description:
-
-> **AI Guardian — an agentic AI safety supervisor that monitors, reasons about, and controls AI agent actions before execution. 🛡️🤖**
-
-For the repository **About** section, add topics like:
-
-`agentic-ai` `ai-safety` `cybersecurity` `gemini` `react` `typescript` `ai-agents` `llm-security` `hackathon`
-
-This README will make the project look much more like a **real product/research project** rather than just a college demo. 🔥
